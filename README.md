@@ -1,0 +1,2 @@
+# NUC029xEE_SPI_Mode_Swtich
+ NUC029xEE_SPI_Mode_Swtich
